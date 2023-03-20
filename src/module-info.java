@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author omarcovolo
+ *
+ */
+module JavaPlayer {
+}
